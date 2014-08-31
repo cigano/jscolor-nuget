@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>jscolor</id>
+    <version>1.0.0</version>
+    <authors>Cigano Morrison Mendez</authors>
+    <owners>Cigano Morrison Mendez</owners>
+    <licenseUrl>http://www.gnu.org/copyleft/lesser.html</licenseUrl>
+    <projectUrl>http://jscolor.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>JSColor is a simple and user-friendly color picker for your HTML forms. It extends all desired input fields of a color selection dialog.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2014 Jan Odvárko</copyright>
+    <tags>color picker js jscolor</tags>
+  </metadata>
+</package>
